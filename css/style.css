@@ -1,5 +1,12 @@
 * {
     margin: 0px;
+    padding: 0px;
+}
+
+.main {
+    margin: auto;
+    display: flex;
+    margin-right: 55px;
 }
 
 header {
@@ -27,7 +34,7 @@ ul li a {
     text-decoration: none;
     color: aliceblue;
     padding: 5px;
-  
+    font-size: 20px;
     transition: 0.5s ease;
 }
 
